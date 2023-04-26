@@ -1,4 +1,6 @@
-The Challenges of Python
+## Python Company Financial Records and Public Voting Records Analysis
+
+## The Challenges of Python
 
 1.  Created a python script that analyze the financial records of a company.
 2.  Created a python script that analyze's votes by Voter ID, County and Candidiate.
