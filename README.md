@@ -1,7 +1,5 @@
-# Python-Challenge
-Creating a python script to analyze financial records of a company
-Added finished Pybank file as pybank.py
-Added finished Pypoll file as pypoll.py
-Added finished output file for Pybank in Analysis folder
-Added finished output file for Pypoll in Analysis
-Main.py files in either folder are "draft files" and are not intended for submission. 
+The challenges of Python
+
+Created a python script that analyze the financial records of a company.
+Created a python script that analyze's votes by Voter ID, County and Candidiate.
+revenue-per-lead
